@@ -1,5 +1,3 @@
-
-
 nome_completo = 'Elias Zacarias Lima de Araujo'
 soma_dois_mais_dois = 2+2
 int_um = 1
